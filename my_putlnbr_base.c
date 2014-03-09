@@ -1,5 +1,5 @@
 /*                                                                                                   
-** my_putnbr_base.c for my_printf in /home/bourge_v/trash/printf                                     
+** my_putlnbr_base.c for my_printf in /home/bourge_v/trash/printf                                     
 **                                                                                                   
 ** Made by bourge_v                                                                                  
 ** Login   <bourge_v@epitech.net>                                                                    
